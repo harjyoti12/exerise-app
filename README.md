@@ -24,7 +24,7 @@ An awesome 🏋️‍♂️ Gym Exercise App!
 
 The 🏋️‍♂️ Gym Exercise App is a comprehensive web application designed to provide users with an extensive resource for discovering, learning, and tracking various exercises and fitness programs. Built with modern web technologies such as React.js, Tailwind CSS, AOS, Swiper.js, and RapidAPI, the app offers a seamless and interactive user experience that caters to both fitness enthusiasts and beginners alike.
 
-🎯 Objectives
+🎯 Objectives <br/>
 The primary goal of the Gym Exercise App is to create a centralized platform where users can:
 
 🔍 Explore a wide range of exercises tailored to different muscle groups and fitness goals.

@@ -13,7 +13,7 @@ An awesome 🏋️‍♂️ Gym Exercise App!
  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@harjyotikalita1) 
 <br/>
 <br/>
-<a href="https://kalitastore.netlify.app/">View Demo .</a>  
+<a href="https://proflexfitness.netlify.app/">View Demo .</a>  
 <a href="https://github.com/harjyoti12/exerise-app/issues">Report Bug .</a>
 <a href="https://github.com/harjyoti12/exerise-app/issues">Request Feature</a>
 </p>

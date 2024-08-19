@@ -21,6 +21,8 @@ An awesome 🏋️‍♂️ Gym Exercise App!
  ## About The Project
 
 <img src="/project/Vite + React - Google Chrome 19-08-2024 13_14_09.png" alt="Random Image" width="400px">
+ 
+ watch demo:  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@harjyotikalita1) 
 
 The 🏋️‍♂️ Gym Exercise App is a comprehensive web application designed to provide users with an extensive resource for discovering, learning, and tracking various exercises and fitness programs. Built with modern web technologies such as React.js, Tailwind CSS, AOS, Swiper.js, and RapidAPI, the app offers a seamless and interactive user experience that caters to both fitness enthusiasts and beginners alike.
 

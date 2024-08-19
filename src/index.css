@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: head;
+  src: url(/src/Font/5f242a69b1577e63266b4d72_DomaineDispCondMedium.ttf);
+} 
+@font-face {
+  font-family: head1;
+  src: url(/src/Font/Freight\ Big\ Pro\ Semibold.otf);
+} 
+@font-face {
+  font-family: head2;
+  src: url(/src/Font/NeueHaasDisplayBold.ttf);
+} 
+@font-face {
+  font-family: head3;
+  src: url(/src/Font/Futura-Bold.ttf);
+} 
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+background-color: #0C0C0C;
+scroll-behavior: smooth;
+}
+
+
+.hide::-webkit-scrollbar{
+  overflow: hidden;
+}
